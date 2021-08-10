@@ -4,11 +4,11 @@ stages:
 validate:
   stage: validating
   image: node:14-alpine
-  artifacts:
-    when: always
-    paths:
-      - coverage/
-    expire_in: 1 week
+  #artifacts:
+  #  when: always
+  #  paths:
+  #    - coverage/
+  #  expire_in: 1 week
   script:
     - npm i pnpm -g
     - pnpm i
