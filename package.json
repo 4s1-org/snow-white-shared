@@ -32,5 +32,9 @@
     "eslint": "^7.24.0",
     "prettier": "^2.2.1",
     "typescript": "^4.2.4"
+  },
+  "publishConfig": {
+    "@yellowgarbagegroup:registry": "https://gitlab.com/api/v4/projects/28742456/packages/npm/",
+    "access": "public"
   }
 }
