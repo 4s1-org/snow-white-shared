@@ -1,14 +1,14 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': 14.17.9
+  '@types/node': 14.17.10
   '@yellowgarbagegroup/eslint-config': 2.0.1
   eslint: 7.32.0
   prettier: 2.3.2
   typescript: 4.3.5
 
 devDependencies:
-  '@types/node': 14.17.9
+  '@types/node': 14.17.10
   '@yellowgarbagegroup/eslint-config': 2.0.1_aff669e8eb0d21fc4e2068e6112ef4d0
   eslint: 7.32.0
   prettier: 2.3.2
@@ -93,8 +93,8 @@ packages:
     resolution: {integrity: sha512-qcUXuemtEu+E5wZSJHNxUXeCZhAfXKQ41D+duX+VYPde7xyEVZci+/oXKJL13tnRs9lR2pr4fod59GT6/X1/yQ==}
     dev: true
 
-  /@types/node/14.17.9:
-    resolution: {integrity: sha512-CMjgRNsks27IDwI785YMY0KLt3co/c0cQ5foxHYv/shC2w8oOnVwz5Ubq1QG5KzrcW+AXk6gzdnxIkDnTvzu3g==}
+  /@types/node/14.17.10:
+    resolution: {integrity: sha512-09x2d6kNBwjHgyh3jOUE2GE4DFoxDriDvWdu6mFhMP1ysynGYazt4ecZmJlL6/fe4Zi2vtYvTvtL7epjQQrBhA==}
     dev: true
 
   /@typescript-eslint/eslint-plugin/4.29.1_d4376362794b743c19f4cba25c7fc6f5:
