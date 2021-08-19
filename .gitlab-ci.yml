@@ -1,16 +1,26 @@
 stages:
   - validating
+  - deploying
 
 validate:
   stage: validating
   image: registry.gitlab.com/yellowgarbagegroup/docker-images/node-with-pnpm:14-alpine
-  #artifacts:
-  #  when: always
-  #  paths:
-  #    - coverage/
-  #  expire_in: 1 week
   script:
     - pnpm i
     - pnpm run lint
     - pnpm run build
-    #- npm run test:cov-html
+    - pnpm run test
+
+publish:
+  stage: deploying
+  image: registry.gitlab.com/yellowgarbagegroup/docker-images/node-with-pnpm-and-git:14-alpine
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  variables:
+    NPM_TOKEN: ${CI_JOB_TOKEN}
+  before_script:
+    - echo "//${CI_SERVER_HOST}/api/v4/projects/${CI_PROJECT_ID}/packages/npm/:_authToken=${CI_JOB_TOKEN}" >> .npmrc
+  script:
+    - pnpm i
+    - pnpm run build
+    - pnpm run semantic-release
