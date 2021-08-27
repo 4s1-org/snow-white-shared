@@ -7,7 +7,7 @@ specifiers:
   '@semantic-release/npm': 7.1.3
   '@types/node': 14.17.12
   '@yellowgarbagegroup/eslint-config': 2.0.1
-  '@yellowgarbagegroup/semantic-release-config': 1.2.1
+  '@yellowgarbagegroup/semantic-release-config': 1.2.3
   eslint: 7.32.0
   prettier: 2.3.2
   semantic-release: 17.4.7
@@ -20,7 +20,7 @@ devDependencies:
   '@semantic-release/npm': 7.1.3_semantic-release@17.4.7
   '@types/node': 14.17.12
   '@yellowgarbagegroup/eslint-config': 2.0.1_aff669e8eb0d21fc4e2068e6112ef4d0
-  '@yellowgarbagegroup/semantic-release-config': 1.2.1_892e01034655c99e916f0a6257f008b0
+  '@yellowgarbagegroup/semantic-release-config': 1.2.3_892e01034655c99e916f0a6257f008b0
   eslint: 7.32.0
   prettier: 2.3.2
   semantic-release: 17.4.7
@@ -539,13 +539,15 @@ packages:
       - typescript
     dev: true
 
-  /@yellowgarbagegroup/semantic-release-config/1.2.1_892e01034655c99e916f0a6257f008b0:
-    resolution: {integrity: sha1-28HlSSFjdzfZs9TaH8U7iRWyBd8=, tarball: https://gitlab.com/api/v4/projects/28978903/packages/npm/@yellowgarbagegroup/semantic-release-config/-/@yellowgarbagegroup/semantic-release-config-1.2.1.tgz}
+  /@yellowgarbagegroup/semantic-release-config/1.2.3_892e01034655c99e916f0a6257f008b0:
+    resolution: {integrity: sha1-to1u0Lrw2Bt2ZGLo3DfJsrj/47A=, tarball: https://gitlab.com/api/v4/projects/28978903/packages/npm/@yellowgarbagegroup/semantic-release-config/-/@yellowgarbagegroup/semantic-release-config-1.2.3.tgz}
     peerDependencies:
-      '@semantic-release/changelog': ^5.0.0
+      '@semantic-release/changelog': ^5.0.1
       '@semantic-release/git': ^9.0.0
-      '@semantic-release/gitlab': ^6.2.0
-      semantic-release: 17.4.6
+      '@semantic-release/gitlab': ^6.2.2
+      conventional-changelog: ^3.1.24
+      conventional-changelog-conventionalcommits: ^4.6.0
+      semantic-release: ^17.4.6
     dependencies:
       '@semantic-release/changelog': 5.0.1_semantic-release@17.4.7
       '@semantic-release/git': 9.0.0_semantic-release@17.4.7
