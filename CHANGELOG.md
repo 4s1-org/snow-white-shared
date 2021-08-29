@@ -1,5 +1,20 @@
 # Changelog
 
+### [3.1.2](https://gitlab.com/YellowGarbageGroup/snow-white/snow-white-shared/compare/v3.1.1...v3.1.2) (2021-08-29)
+
+
+### Bug Fixes
+
+* publish correct files ([1f7230f](https://gitlab.com/YellowGarbageGroup/snow-white/snow-white-shared/commit/1f7230f0169920dca7529d1adbf05fa46a83915a))
+
+
+### Miscellaneous Chores
+
+* pin dependencies ([cc72ada](https://gitlab.com/YellowGarbageGroup/snow-white/snow-white-shared/commit/cc72ada34a256321e8f71b4e95ae00517662f19b))
+* update dependency @yellowgarbagegroup/eslint-config to v2.1.1 ([6660472](https://gitlab.com/YellowGarbageGroup/snow-white/snow-white-shared/commit/66604722687451bc29fdf34809fdc214f7c372cf))
+* update dependency @yellowgarbagegroup/semantic-release-config to v1.2.5 ([258cc94](https://gitlab.com/YellowGarbageGroup/snow-white/snow-white-shared/commit/258cc94f8cb497f2d0acc039481e9278acafd5c0))
+* update dependency @yellowgarbagegroup/semantic-release-config to v1.3.1 ([5de34b2](https://gitlab.com/YellowGarbageGroup/snow-white/snow-white-shared/commit/5de34b27b2cc5f38053de62471f7e7a6f94c3bf0))
+
 ### [3.1.1](https://gitlab.com/YellowGarbageGroup/snow-white/snow-white-shared/compare/v3.1.0...v3.1.1) (2021-08-27)
 
 
