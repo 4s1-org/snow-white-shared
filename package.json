@@ -1,17 +1,17 @@
 {
-  "name": "@yellowgarbagegroup/snow-white-shared",
+  "name": "@4s1/snow-white-shared",
   "version": "3.1.2",
   "description": "Snow White - Shared",
-  "homepage": "https://gitlab.com/YellowGarbageGroup/snow-white",
+  "homepage": "https://gitlab.com/4s1/snow-white",
   "bugs": {
-    "url": "https://gitlab.com/YellowGarbageGroup/snow-white/issues"
+    "url": "https://gitlab.com/4s1/snow-white/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:YellowGarbageGroup/snow-white/snow-white-shared.git"
+    "url": "git+ssh://git@gitlab.com/4s1/snow-white/snow-white-shared.git"
   },
   "license": "MIT",
-  "author": "Steffen <YellowGarbageBag@4s1.de>",
+  "author": "Steffen <steffen@4s1.de>",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -29,14 +29,14 @@
     "test": "echo No tests available",
     "semantic-release": "semantic-release"
   },
-  "prettier": "@yellowgarbagegroup/eslint-config",
+  "prettier": "@4s1/eslint-config",
   "devDependencies": {
+    "@4s1/eslint-config": "3.0.0",
+    "@4s1/semantic-release-config": "2.0.0",
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/git": "9.0.0",
     "@semantic-release/gitlab": "6.2.2",
     "@types/node": "14.17.15",
-    "@yellowgarbagegroup/eslint-config": "2.1.1",
-    "@yellowgarbagegroup/semantic-release-config": "1.3.1",
     "conventional-changelog": "3.1.24",
     "conventional-changelog-conventionalcommits": "4.6.0",
     "eslint": "7.32.0",
@@ -45,7 +45,7 @@
     "typescript": "4.3.5"
   },
   "publishConfig": {
-    "@yellowgarbagegroup:registry": "https://gitlab.com/api/v4/projects/28742456/packages/npm/",
+    "@4s1:registry": "https://gitlab.com/api/v4/projects/28742456/packages/npm/",
     "access": "public"
   }
 }
