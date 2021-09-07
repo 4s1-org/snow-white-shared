@@ -11,9 +11,9 @@
 ### Miscellaneous Chores
 
 * pin dependencies ([f2c614f](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/f2c614ffa7ffda901d031081b761a76b02eea26a))
-* update dependency @yellowgarbagegroup/eslint-config to v2.1.1 ([2e9588d](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/2e9588d4f3f6bd17157d68c7e1820d28d1c7fb85))
-* update dependency @yellowgarbagegroup/semantic-release-config to v1.2.5 ([a7ae36e](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/a7ae36e229b14715d3c863153344d54397af8dd5))
-* update dependency @yellowgarbagegroup/semantic-release-config to v1.3.1 ([66e89f8](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/66e89f8a27b0b9424f2dfc19ad97f9550149fb89))
+* update dependency @4s1/eslint-config to v2.1.1 ([2e9588d](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/2e9588d4f3f6bd17157d68c7e1820d28d1c7fb85))
+* update dependency @4s1/semantic-release-config to v1.2.5 ([a7ae36e](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/a7ae36e229b14715d3c863153344d54397af8dd5))
+* update dependency @4s1/semantic-release-config to v1.3.1 ([66e89f8](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/66e89f8a27b0b9424f2dfc19ad97f9550149fb89))
 
 
 ### Renovate Bot
