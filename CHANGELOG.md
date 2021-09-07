@@ -1,5 +1,30 @@
 # Changelog
 
+## [4.0.0](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.1...v4.0.0) (2021-09-07)
+
+
+### Bug Fixes
+
+* publish correct files ([818b0cd](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/818b0cd87aa18ba22cad9f3b7d3e9a4aead78eb9))
+
+
+### Miscellaneous Chores
+
+* pin dependencies ([f2c614f](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/f2c614ffa7ffda901d031081b761a76b02eea26a))
+* update dependency @yellowgarbagegroup/eslint-config to v2.1.1 ([2e9588d](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/2e9588d4f3f6bd17157d68c7e1820d28d1c7fb85))
+* update dependency @yellowgarbagegroup/semantic-release-config to v1.2.5 ([a7ae36e](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/a7ae36e229b14715d3c863153344d54397af8dd5))
+* update dependency @yellowgarbagegroup/semantic-release-config to v1.3.1 ([66e89f8](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/66e89f8a27b0b9424f2dfc19ad97f9550149fb89))
+
+
+### Renovate Bot
+
+* update dependency @types/node to v14.17.15 ([f4c3aeb](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/f4c3aebc2a5640057708e0ff7dbb55c68d9c7a56))
+
+
+### Breaking Changes
+
+* update to 4s1 group ([411099a](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/411099ab5b00ceacf459a32267a05a296cfcde51))
+
 ### [3.1.2](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.1...v3.1.2) (2021-09-07)
 
 
