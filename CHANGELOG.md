@@ -1,5 +1,18 @@
 # Changelog
 
+### [4.0.1](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v4.0.0...v4.0.1) (2021-09-09)
+
+
+### Bug Fixes
+
+* url in package.json ([9ac8251](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/9ac8251e2fa40e4dc276b7d06ccbfa74cc2bbe0e))
+
+
+### Renovate Bot
+
+* update dependency prettier to v2.4.0 ([236d507](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/236d507b4f85ceb19e11030fa8b891a6df003728))
+* update dependency typescript to v4.4.2 ([933ad27](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/933ad27a31889d8c7d822d38f2d630c65ec08200))
+
 ## [4.0.0](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.1...v4.0.0) (2021-09-07)
 
 
