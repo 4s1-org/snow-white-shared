@@ -2,14 +2,10 @@
   "name": "@4s1/snow-white-shared",
   "version": "4.0.0",
   "description": "Snow White - Shared",
-  "homepage": "https://gitlab.com/4s1/snow-white",
   "bugs": {
-    "url": "https://gitlab.com/4s1/snow-white/issues"
+    "url": "https://gitlab.com/4s1/snow-white/snow-white-shared/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/4s1/snow-white/snow-white-shared.git"
-  },
+  "repository": "gitlab:4s1/snow-white/snow-white-shared",
   "license": "MIT",
   "author": "Steffen <steffen@4s1.de>",
   "main": "dist/index.js",
