@@ -15,7 +15,7 @@ All notable changes to this project will be documented in this file. See [standa
 * update dependency @types/node to v14.17.16 ([e35385b](https://gitlab.com/4s1/playground/some-library/commit/e35385b4fa2f5ef22b669ef94f598d35ae05f03e))
 * update devDeps ([e96987b](https://gitlab.com/4s1/playground/some-library/commit/e96987bd476447c2a25b565bb248ed89664c852f))
 
-### [4.0.1](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v4.0.0...v4.0.1) (2021-09-09)
+## [4.0.1](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v4.0.0...v4.0.1) (2021-09-09)
 
 
 ### Bug Fixes
@@ -53,7 +53,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 * update to 4s1 group ([411099a](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/411099ab5b00ceacf459a32267a05a296cfcde51))
 
-### [3.1.2](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.1...v3.1.2) (2021-09-07)
+## [3.1.2](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.1...v3.1.2) (2021-09-07)
 
 
 ### Bug Fixes
@@ -68,7 +68,7 @@ All notable changes to this project will be documented in this file. See [standa
 * update dependency @4s1/semantic-release-config to v1.2.5 ([a7ae36e](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/a7ae36e229b14715d3c863153344d54397af8dd5))
 * update dependency @4s1/semantic-release-config to v1.3.1 ([66e89f8](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/66e89f8a27b0b9424f2dfc19ad97f9550149fb89))
 
-### [3.1.2](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.1...v3.1.2) (2021-09-07)
+## [3.1.2](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.1...v3.1.2) (2021-09-07)
 
 
 ### Bug Fixes
@@ -83,7 +83,7 @@ All notable changes to this project will be documented in this file. See [standa
 * update dependency @4s1/semantic-release-config to v1.2.5 ([a7ae36e](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/a7ae36e229b14715d3c863153344d54397af8dd5))
 * update dependency @4s1/semantic-release-config to v1.3.1 ([66e89f8](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/66e89f8a27b0b9424f2dfc19ad97f9550149fb89))
 
-### [3.1.1](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.0...v3.1.1) (2021-08-27)
+## [3.1.1](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.1.0...v3.1.1) (2021-08-27)
 
 
 ### Bug Fixes
@@ -109,7 +109,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 * update dependency @4s1/semantic-release-config to v1.2.4 ([074fdce](https://gitlab.com/4s1/snow-white/snow-white-shared/commit/074fdce0129583d10de5e9e81fdaf42627842a3f))
 
-# [3.1.0](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.0.1...v3.1.0) (2021-08-19)
+## [3.1.0](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v3.0.1...v3.1.0) (2021-08-19)
 
 
 ### Features
