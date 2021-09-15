@@ -1,5 +1,20 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [4.1.0](https://gitlab.com/4s1/playground/some-library/compare/v4.0.1...v4.1.0) (2021-09-15)
+
+
+### Features
+
+* use standard-version ([cc553f9](https://gitlab.com/4s1/playground/some-library/commit/cc553f9c13567e6bc9fbe3795ab735e7e6d4c2ce))
+
+
+### Miscellaneous Chores
+
+* update dependency @types/node to v14.17.16 ([e35385b](https://gitlab.com/4s1/playground/some-library/commit/e35385b4fa2f5ef22b669ef94f598d35ae05f03e))
+* update devDeps ([e96987b](https://gitlab.com/4s1/playground/some-library/commit/e96987bd476447c2a25b565bb248ed89664c852f))
+
 ### [4.0.1](https://gitlab.com/4s1/snow-white/snow-white-shared/compare/v4.0.0...v4.0.1) (2021-09-09)
 
 
