@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.2](https://gitlab.com/4s1/snow-white-shared/compare/v5.0.1...v5.0.2) (2021-11-21)
+
 ## [5.0.1](https://gitlab.com/4s1/snow-white-shared/compare/v5.0.0...v5.0.1) (2021-11-09)
 
 ## [5.0.0](https://gitlab.com/4s1/snow-white-shared/compare/v4.1.0...v5.0.0) (2021-11-09)
