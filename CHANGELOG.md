@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.1.1](https://github.com/4s1-org/snow-white-shared/compare/v5.1.0...v5.1.1) (2022-04-05)
+
 ## [5.1.0](https://github.com/4s1-org/snow-white-shared/compare/v5.0.2...v5.1.0) (2021-12-15)
 
 ## [5.0.2](https://github.com/4s1-org/snow-white-shared/compare/v5.0.1...v5.0.2) (2021-11-21)
